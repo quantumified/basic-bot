@@ -1,2 +1,2 @@
 # Utility Bot
-- A very basic, barebones Discord server utility bot.
+- A barebones Discord server utility bot with some fun commands added.
